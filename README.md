@@ -49,19 +49,19 @@ To install and run the Bank Management System project, follow these steps:
 - Run the command: **ant run** to launch the Bank Management System.
 
 # **Login Page**
-![Alternate Text](/bank%20management%20system/Login.png)
+![Login](https://github.com/ravi-143kiran/BankManagementSystem/assets/119074585/7b6b443b-dc77-45df-a8ff-8d934e1dad99)
 
 # **SignupOne**
-![Alternate Text](/bank%20management%20system/SignupOne.png)
+![SignupOne](https://github.com/ravi-143kiran/BankManagementSystem/assets/119074585/f9ba0924-4751-4330-96a8-4eaf33a8d4da)
 
 # **SignupTwo**
-![Alternate Text](/bank%20management%20system/SignupTwo.png)
+![SignupTwo](https://github.com/ravi-143kiran/BankManagementSystem/assets/119074585/cd6ebc33-3690-4938-938a-2493d0dc9127)
 
 # **SignupThree**
-![Alternate Text](/bank%20management%20system/SignupThree.png)
+![SignupThree](https://github.com/ravi-143kiran/BankManagementSystem/assets/119074585/717454c1-f3c4-4ac9-a07f-85554ca9749d)
 
 # **Transactions**
-![Alternate Text](/bank%20management%20system/Transactions.png)
+![Transactions](https://github.com/ravi-143kiran/BankManagementSystem/assets/119074585/e1fbae80-26ae-43af-a81a-5e40af358247)
 
 # **Usage**
 
